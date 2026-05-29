@@ -38,7 +38,7 @@ const peopleData = [
         description: "превосходства – это преимущество перед кем‑либо или чем‑либо по какому‑либо признаку",
         telegram: "qbovz",
         details: "DM - qbovz.t.me",
-        avatar: "img/avatar1.jpg"
+        avatar: "img/avatar4.jpg"
     },
 ];
 
