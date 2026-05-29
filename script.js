@@ -9,6 +9,16 @@ const peopleData = [
         telegram: "wheback",
         details: "создатель проекта mani.net. ищу уязвимости в сайтах",
         avatar: "img/avatar1.jpg"
+    },
+        {
+        id: 2,
+        name: "Crownes & Убийцев",
+        role: "co-owner",
+        username: "@payauction",
+        description: " I smoke marijuana and don't love anyone.If she tries to take my money, I'll punch her in the face",
+        telegram: "payauction",
+        details: "co-owner листа метафора",
+        avatar: "img/avatar2.jpg"
     }
 ];
 
