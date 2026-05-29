@@ -49,6 +49,16 @@ const peopleData = [
         telegram: "osvobojdenny",
         details: "my adapter: @pr_osv",
         avatar: "img/avatar5.jpg"
+    },
+            {
+        id: 6,
+        name: "диссон метафор",
+        role: "участник",
+        username: "@upkill",
+        description: "meportal.t.me — cultdisson.t.me l person clownface in front of me",
+        telegram: "upkill",
+        details: "private message : @upkill l online 24/7",
+        avatar: "img/avatar6.jpg"
     }
 ];
 
