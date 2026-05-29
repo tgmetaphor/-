@@ -1,4 +1,4 @@
-// script.js
+
 const peopleData = [
     {
         id: 1,
