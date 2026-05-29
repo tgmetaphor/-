@@ -40,6 +40,16 @@ const peopleData = [
         details: "DM - qbovz.t.me",
         avatar: "img/avatar4.jpg"
     },
+            {
+        id: 5,
+        name: "оᴄʙобождᴇнный 🏴‍☠️",
+        role: "участник",
+        username: "@osvobojdenny",
+        description: "$dm @osvobojdenny $adp @ad_osv $inf @inf_osv $ анон $ иллюзия",
+        telegram: "osvobojdenny",
+        details: "my adapter: @pr_osv",
+        avatar: "img/avatar5.jpg"
+    }
 ];
 
 function escapeHtml(str) {
