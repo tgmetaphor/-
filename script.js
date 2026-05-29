@@ -19,7 +19,27 @@ const peopleData = [
         telegram: "payauction",
         details: "co-owner листа метафора",
         avatar: "img/avatar2.jpg"
-    }
+    },
+        {
+        id: 3,
+        name: "вейzov друн",
+        role: "участник",
+        username: "@attakweizov",
+        description: "мир всему миру @hwzuw / друн - @drunnwe / отзывы - @jwiwzbw",
+        telegram: "attakweizov",
+        details: "блог - https://t.me/+_qPOFvW5KIsyZGI0",
+        avatar: "img/avatar3.jpg"
+    },
+        {
+        id: 4,
+        name: "правозглашённый студент",
+        role: "участник",
+        username: "@qbovz",
+        description: "превосходства – это преимущество перед кем‑либо или чем‑либо по какому‑либо признаку",
+        telegram: "qbovz",
+        details: "DM - qbovz.t.me",
+        avatar: "img/avatar1.jpg"
+    },
 ];
 
 function escapeHtml(str) {
