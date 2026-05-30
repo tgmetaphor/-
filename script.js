@@ -59,6 +59,16 @@ const peopleData = [
         telegram: "upkill",
         details: "private message : @upkill l online 24/7",
         avatar: "img/avatar6.jpg"
+    },
+                {
+        id: 7,
+        name: "афганец metaphor",
+        role: "участник",
+        username: "@zunangel",
+        description: "чат https://t.me/+208RWE197F4xYTky",
+        telegram: "zunangel",
+        details: "любимый кент",
+        avatar: "img/avatar7.jpg"
     }
 ];
 
